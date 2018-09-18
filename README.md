@@ -1,40 +1,32 @@
 # Jung-Tribute-Page
 Free Code Academy Project #1
+<head> https://en.wikipedia.org/wiki/Carl_Jung#Key_concepts </head>
 <div id="main">
-  <h1 id="title">Dr. Norman Borlaug</h1>
-  <div>The man who saved a billion lives</div>
+  <h1 id="title">Carl Gustav Jung</h1>
+  <div>The father of Analytical Psychology</div>
   <div id="img-div">
-    <img id="image" src="https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg" alt "pic from flickr">
+    <img id="image" src="https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Carl-Jung-Quotes.jpg" alt "pic from flickr">
     <div id="img-caption">
-      Dr. Norman Borlaug, second from left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.
+      Dr. Carl Jung poses in his personal office.
     </div>
   </div>
   <div id="tribute-info">
     <ul>
-      <h3 id="headline">Here's a time line of Dr. Borlaug's life:</h3>
-      <li><strong>1914</strong> - Born in Cresco, Iowa</li>
-      <li><strong>1933</strong> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
-      <li><strong>1935</strong> - Has to stop school and save up more money. Works in the Civilian Conservation Corps, helping starving Americans. "I saw how food changed them", he said. "All of this left scars on me."</li>
-      <li><strong>1937</strong> - Finishes university and takes a job in the US Forestry Service</li>
-      <li><strong>1938</strong> - Marries wife of 69 years Margret Gibson. Gets laid off due to budget cuts. Inspired by Elvin Charles Stakman, he returns to school study under Stakman, who teaches him about breeding pest-resistent plants.</li>
-      <li><strong>1941</strong> - Tries to enroll in the military after the Pearl Harbor attack, but is rejected. Instead, the military asked his lab to work on waterproof glue, DDT to control malaria, disenfectants, and other applied science.</li>
-      <li><strong>1942</strong> - Receives a Ph.D. in Genetics and Plant Pathology</li>
-      <li><strong>1944</strong> - Rejects a 100% salary increase from Dupont, leaves behind his pregnant wife, and flies to Mexico to head a new plant pathology program. Over the next 16 years, his team breeds 6,000 different strains of disease resistent
-        wheat - including different varieties for each major climate on Earth.</li>
-      <li><strong>1945</strong> - Discovers a way to grown wheat twice each season, doubling wheat yields</li>
-      <li><strong>1953</strong> - crosses a short, sturdy dwarf breed of wheat with a high-yeidling American breed, creating a strain that responds well to fertalizer. It goes on to provide 95% of Mexico's wheat.</li>
-      <li><strong>1962</strong> - Visits Delhi and brings his high-yielding strains of wheat to the Indian subcontinent in time to help mitigate mass starvation due to a rapidly expanding population</li>
-      <li><strong>1970</strong> - receives the Nobel Peace Prize</li>
-      <li><strong>1983</strong> - helps seven African countries dramatically increase their maize and sorghum yields</li>
-      <li><strong>1984</strong> - becomes a distinguished professor at Texas A&M University</li>
-      <li><strong>2005</strong> - states "we will have to double the world food supply by 2050." Argues that genetically modified crops are the only way we can meet the demand, as we run out of arable land. Says that GM crops are not inherently dangerous
-        because "we've been genetically modifying plants and animals for a long time. Long before we called it science, people were selecting the best breeds."</li>
-      <li><strong>2009</strong> - dies at the age of 95.</li>
+      <h3 id="headline">The life of Dr. Jung:</h3>
+      <li><strong>1875</strong> - Born in Kesswil, Switzerland</li>
+      <li><strong>1895</strong> - Develops interests in psychology and psychiatry while studying medicine at the University of Basel</li>
+      <li><strong>1903</strong> - Marries Swiss heiress Emma Rauschenbach</li>
+      <li><strong>1905</strong> - Appointed to the faculty at the University of Zurich</li><li><strong>1906</strong> - Publishes <em>Studies in Word Association</em>, which allows a mentorship with Sigmund Freud to blossom</li>
+      <li><strong>1913</strong> - Tensions arise between Jung and Freud as their opinions on the unconscious diverge leading to the end of their professional relationship</li>
+      <li><strong>1944</strong> - Publishes <em>Psychology and Alchemy</em> in which he detailed his original theory of <strong>Individuation</strong></li>
+      <li><strong>1961</strong> - Dies at the age of 85 in Zurich, Switzerland</li>
     </ul>
     <blockquote>
-      <p>"Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."</p>
-      <div>-- Indian Prime Minister Manmohan Singh</div>
+      <p><em>"As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of 
+        mere being." </em><br> </br>
+        - Carl Jung, 1962 </p>
+      
     </blockquote>
-    <h3>If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</h3>
+    <h3>Read more about this preeminent psychiatrist over at <a id="encyclopedia britannica-link" href="https://www.britannica.com/biography/Carl-Jung" target="_blank">Encyclopedia Brittanica</a>.</h3>
   </div>
 </div>
