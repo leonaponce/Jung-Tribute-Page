@@ -1,0 +1,44 @@
+html,body{
+  font-family:"arial", Helvetica, arial;
+  text-align:center;
+  min-width:260px;
+  color:#666;
+}
+#main{
+  margin:50px auto;
+  padding:25px;
+  border:30px solid;
+  border-radius:10px;
+  background:#ddd;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid white;
+  background:white;
+}
+#img-caption{
+  margin:15px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-style: italic;
+}
