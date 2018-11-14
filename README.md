@@ -2,8 +2,6 @@
 
 Deliverables <br><br>
 
- **I am also unsure about overall quality of code and redundancies. Thank you for helping me clean up my code!**
-
 -#1: Tribute page should have an element with a corresponding id="main", which contains all other elements. <br><br>
 -#2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug"). <br><br>
 -#3: I should see a div element with a corresponding id="img-div". <br><br>
